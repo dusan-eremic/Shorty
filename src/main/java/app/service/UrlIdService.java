@@ -1,4 +1,4 @@
-package service;
+package app.service;
 
 import org.hashids.Hashids;
 import org.springframework.beans.factory.annotation.Autowired;

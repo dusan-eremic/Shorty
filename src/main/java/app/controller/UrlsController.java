@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import app.model.Url;
 import app.repository.UrlsRepository;
 import app.resource.UrlResource;
-import service.UrlIdService;
+import app.service.UrlIdService;
 
 /**
  * URL controller
