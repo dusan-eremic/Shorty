@@ -15,5 +15,7 @@ Database URL is located inside the `src/main/resource/application.properties` fi
 
 ### Run the ShortyWebClient
 `cd ShortyWebClient`
-then run any HTTP server for instance
+
+then run any HTTP server while iside that directory for instance
+
 `python -m SimpleHTTPServer`
